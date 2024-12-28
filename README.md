@@ -33,10 +33,6 @@
 
   The primary technologies you will leverage in this project are Python, SQL, and File I/O with .csv files. The project will be written in Python. Data will be loaded into an in-memory SQLite database from existing .csv       files, and analytic data will be saved into new .csv files.]
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sammed-pawar-246a46215/)
-
-
 ## 💡 Quotes
 "No, No, This... This Whole Thing, All Of This... It's All About Me." 
 
