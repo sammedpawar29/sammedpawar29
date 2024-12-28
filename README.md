@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sammed Pawar</h1>
-<h3 align="center">A passionate full stack developer and DevOps enthusiast</h3>
+<h1 align="left">Hi 👋, I'm Sammed Pawar</h1>
+<h3 align="left">A passionate full stack developer and DevOps enthusiast</h3>
 
 - 🌱 I’m currently learning: **DevOps**
 - 🔭 Currently training at Revature, and will be joining full-time soon!
