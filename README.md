@@ -2,7 +2,6 @@
 <h3 align="left">A passionate full stack developer and DevOps enthusiast</h3>
 
 - 🌱 I’m currently learning: **DevOps**
-- 🔭 Currently training at Revature, and will be joining full-time soon!
 - 👯 I’m looking to collaborate on: **Full Stack and DevOps projects**
 - 💬 Ask me about: **AWS, Linux, Full Stack Development**
 - 📫 How to reach me: **[sammedpawar07@gmail.com](mailto:sammedpawar07@gmail.com)**
